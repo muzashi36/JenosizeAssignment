@@ -1,0 +1,36 @@
+## API ##
+API/.env
+API/node_modules
+API/.DS_Store
+
+API/.env.local
+API/.env.*.local
+
+API/.idea
+API/.vscode
+API/*.suo
+API/*.ntvs*
+API/*.njsproj
+API/*.sln
+API/*.sw?
+
+## TIC TAC TOE ##
+tictactoe/.env
+tictactoe/node_modules
+tictactoe/.DS_Store
+
+tictactoe/npm-debug.log*
+tictactoe/yarn-debug.log*
+tictactoe/yarn-error.log*
+tictactoe/pnpm-debug.log*
+
+tictactoe/.env.local
+tictactoe/.env.*.local
+
+tictactoe/.idea
+tictactoe/.vscode
+tictactoe/*.suo
+tictactoe/*.ntvs*
+tictactoe/*.njsproj
+tictactoe/*.sln
+tictactoe/*.sw?
